@@ -1,7 +1,67 @@
-{{ define "title" }}404{{ end }}
-{{ define "main" }}
-  <div class="not-found">
-    <h1>Page not found</h1>
-    <p>Sorry, the requested page could not be found.</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>404 – WASTED</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: black;
+      color: white;
+      text-align: center;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .video-bg {
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      min-width: 100%;
+      min-height: 100%;
+      transform: translate(-50%, -50%);
+      z-index: 1;
+      opacity: 0.7;
+      object-fit: cover;
+      pointer-events: none;
+    }
+
+    .content {
+      position: relative;
+      z-index: 2;
+      padding-top: 200px;
+    }
+
+    a {
+      color: #ff4d4d;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- GTA "Wasted" Video Overlay -->
+  <video class="video-bg" autoplay muted loop playsinline>
+    <source src="/wasted.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
+  <audio autoplay>
+    <source src="/wasted.mp3" type="audio/mpeg">
+  </audio>
+
+  <div class="content">
+    <h1>💀 404 – WASTED</h1>
+    <p>You took a wrong turn in Los Santos and ran into a missing page.</p>
+    <p><a href="/">Respawn at Homepage</a></p>
   </div>
-{{ end }}
+
+</body>
+</html>
