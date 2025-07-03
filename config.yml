@@ -25,8 +25,11 @@ menu:
           url: data/
           weight: 4 
         - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+          url: blog/
           weight: 6
+        - name: Articals
+          url: articals/
+          weight: 1
 
 params:
     description: "Personal website and learning portfolio of Sithija Hashendra. Includes blog posts, academic reflections, projects, and learning goals."
@@ -75,7 +78,9 @@ params:
             - name: Archive
               url: archive/
             - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+              url: blog/
+            - name: Articals
+              url: articals/
 
     socialIcons:
         - name: CV
