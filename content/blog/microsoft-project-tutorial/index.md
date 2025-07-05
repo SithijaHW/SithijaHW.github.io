@@ -117,8 +117,8 @@ MS Project will:
 - Automatically calculate start/end based on subtasks
 - Show roll-up % complete and bar in the Gantt chart
 
-**Screenshot Tip**: 
-Display summary task in Gantt view: 
+**Screenshot Tip**:
+Display summary task in Gantt view:
 ![Project Info Screenshot](/images/msproject4.png)
 
 ## Step 5: Insert Milestones
@@ -248,6 +248,3 @@ Microsoft Project is a powerful project planning tool when used with intention. 
 > “Good project management isn’t about rigid control—it’s about clarity, foresight, and adaptability.”
 
 ---
-
-
-[def]: /images/msproject/msproject-new-project.png

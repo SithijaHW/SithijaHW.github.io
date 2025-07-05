@@ -103,6 +103,7 @@ Learning is not only about progress—it’s also about **pivoting and evolving*
 - **Reviewing** progress each Sunday prevents aimless wandering.
 
 ### What I’m Improving:
+
 - Set clearer task-level goals (not just big-picture goals)
 - Reduce over-reliance on video learning (add more practice)
 - Collaborate with peers for feedback and group accountability

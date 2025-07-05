@@ -76,10 +76,12 @@ Timelines create focus and reduce procrastination.
 ## Applying SMART in Academic and Professional Planning
 
 ### Academic Context
+
 - **Short-term Goal**: “Submit 100% of assignments on time this semester.”
 - **Long-term Goal**: “Graduate with distinction and present at one academic conference before final year.”
 
 ### Professional Context
+
 - **Short-term Goal**: “Update my LinkedIn profile and upload a professional portfolio within 2 weeks.”
 - **Long-term Goal**: “Secure a cybersecurity internship by March 2026 through networking and targeted applications.”
 
